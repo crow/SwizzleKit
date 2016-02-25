@@ -8,7 +8,7 @@
 
 /* Begin PBXBuildFile section */
 		618C9F331C7CD091005772B6 /* SwizzleKit.h in Headers */ = {isa = PBXBuildFile; fileRef = 618C9F321C7CD091005772B6 /* SwizzleKit.h */; settings = {ATTRIBUTES = (Public, ); }; };
-		618C9F3C1C7CD09A005772B6 /* JRSwizzle.h in Headers */ = {isa = PBXBuildFile; fileRef = 618C9F3A1C7CD09A005772B6 /* JRSwizzle.h */; };
+		618C9F3C1C7CD09A005772B6 /* JRSwizzle.h in Headers */ = {isa = PBXBuildFile; fileRef = 618C9F3A1C7CD09A005772B6 /* JRSwizzle.h */; settings = {ATTRIBUTES = (Public, ); }; };
 		618C9F3D1C7CD09A005772B6 /* JRSwizzle.m in Sources */ = {isa = PBXBuildFile; fileRef = 618C9F3B1C7CD09A005772B6 /* JRSwizzle.m */; };
 /* End PBXBuildFile section */
 
@@ -283,6 +283,7 @@
 				618C9F391C7CD091005772B6 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
